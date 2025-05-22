@@ -5,9 +5,9 @@
 
 Program simulator ini bertujuan untuk menunjukkan seberapa bersih dan hemat biaya **renewable energy** dibandingkan dengan **non-renewable energy** dalam jangka waktu panjang. Simulator ini memiliki fitur:
 
--Mendisplay biaya yang dihemat
--Mendisplay kWh yang dihemat
--Mendisplay emisi karbon yang dikurangi
+- Mendisplay biaya yang dihemat
+- Mendisplay kWh yang dihemat
+- Mendisplay emisi karbon yang dikurangi
 
 ##Contributors: 
 
