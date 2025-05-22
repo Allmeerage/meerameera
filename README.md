@@ -9,7 +9,7 @@ Program simulator ini bertujuan untuk menunjukkan seberapa bersih dan hemat biay
 - Mendisplay kWh yang dihemat
 - Mendisplay emisi karbon yang dikurangi
 
-##Contributors: 
+## Contributors: 
 
 - Valiant Joshua (2406352153)
 - Vincenzo Fabian Tisila (2406354215)
